@@ -1,0 +1,59 @@
+body {
+  background-color: #435e55ff;
+}
+img {
+  width: 30%;
+  height: 30%;
+  margin: 20px 20px 20px 0;
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  display: inline-block;
+  font-family: Montserrat;
+  font-size: 24px;
+  text-align: justify;
+}
+
+.story {
+  margin: 0 10% 10% 10%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: #d62161ff;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  font-size: 32px;
+  margin: 8px;
+  color: white;
+}
+
+a {
+  background-color: lightgray;
+  color: black;
+  border: 2px solid transparent;
+  transition: all 0.3s ease-in-out;
+}
+
+a:hover {
+  background-color: yellow;
+  color: blue;
+  border-color: green;
+  transform: scale(1.05);
+}
+
+.hero {
+  color: white;
+  font-family: Montserrat;
+  width: 100%;
+  font-size: 32px;
+  align-items: center;
+}
